@@ -23,4 +23,7 @@ The labels can be downloaded from here: [URL](https://drive.google.com/drive/fol
 
 We provide the code to generate the [IR-SE-50](https://github.com/ZhaoJ9014/face.evoLVe) feature space and run the embedding evaluations. The code to generate the plots from the training FID observed in the process is also included. We also provide the code to train the synthesizer. The sample figure below shows the feature space using T-SNE.
 
-![alt text](http://url/to/img.png)
+<img src="https://github.com/kopepod/DemographicFaceSynthesis/blob/main/TSNE_FFHQ_Gender.png" width="200" height="200" />
+
+
+![](https://github.com/kopepod/DemographicFaceSynthesis/blob/main/TSNE_FFHQ_Gender.png | width=50)
