@@ -24,7 +24,7 @@ The labels can be downloaded from here: [URL](https://drive.google.com/drive/fol
 
 We provide the code to generate the [IR-SE-50](https://github.com/ZhaoJ9014/face.evoLVe) feature space and run the embedding evaluations. The code to generate the plots from the training FID observed in the process is also included. We also provide the code to train the synthesizer. The sample figure below shows the feature space using T-SNE.
 
-<img src="https://github.com/kopepod/DemographicFaceSynthesis/blob/main/TSNE_FFHQ_IRSE50.png" width="1300" height="380" />
+<img src="https://github.com/kopepod/DemographicFaceSynthesis/blob/main/FIGS/TSNE_FFHQ_IRSE50.png" width="1300" height="380" />
 
 From left to right the TSNE Embedding using labels: gender, ethnicity and age. The code to generate the plots is avaiable here: [URL](https://drive.google.com/drive/folders/1cUHLpnaJqzMsoI_JgQF9fi31LozIyDy1) (Embedding.ipynb). 
 
@@ -32,7 +32,7 @@ From left to right the TSNE Embedding using labels: gender, ethnicity and age. T
 
 We provide a virtual environment in colab using conda to synthesize a face from the trained models. It is also given the framework to generate other faces from the labeled ethnic groups by only replacing the respective models' files. The jupyter file is available here: [URL](https://drive.google.com/drive/folders/1cUHLpnaJqzMsoI_JgQF9fi31LozIyDy1) (FaceSynthesis.ipynb). The figure below shows an example of face generated from a supervised group Latin Females.
 
-<img src="https://github.com/kopepod/DemographicFaceSynthesis/blob/main/GFL.png" width="256" height="256" />
+<img src="https://github.com/kopepod/DemographicFaceSynthesis/blob/main/FIGS/GFL.png" width="256" height="256" />
 
 ```
 @software{RLeyva22,
