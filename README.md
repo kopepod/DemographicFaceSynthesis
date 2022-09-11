@@ -18,6 +18,8 @@ We labeled the [FFHQ](https://github.com/NVlabs/ffhq-dataset) dataset using four
 | ...       |        |     |           |
 | 07553.png | M      | 7   | Black     |
 
+<img src="https://github.com/kopepod/DemographicFaceSynthesis/blob/main/FIGS/SamplesDistribution.png" width="1300" height="380" />
+
 The labels can be downloaded from here: [URL](https://drive.google.com/drive/folders/1cUHLpnaJqzMsoI_JgQF9fi31LozIyDy1) (FFHQ_Demographics.csv)
 
 2. Embaeddings
