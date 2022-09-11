@@ -34,7 +34,15 @@ We provide a virtual environment in colab using conda to synthesize a face from 
 
 <img src="https://github.com/kopepod/DemographicFaceSynthesis/blob/main/GFL.png" width="256" height="256" />
 
-
-\cite{RLeyva22}
-
+```
+@software{RLeyva22,
+  author = {Lisa, Mona and Bot, Hew},
+  doi = {10.5281/zenodo.1234},
+  month = {12},
+  title = {{My Research Software}},
+  url = {https://github.com/github/linguist},
+  version = {2.0.4},
+  year = {2017}
+}
+```
 
