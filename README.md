@@ -33,5 +33,7 @@ We provide a virtual environment in colab using conda to synthesize a face from 
 
 <img src="https://github.com/kopepod/DemographicFaceSynthesis/blob/main/GFL.png" width="256" height="256" />
 
+\cite{RLeyva22}
+
 
 
