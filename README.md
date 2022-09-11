@@ -1,3 +1,10 @@
+---
+output:
+  md_document:
+    variant: markdown_github
+bibliography: refs.bib
+---
+
 # Face Synthesis with Demographics Background
 This repository comprises the Face Synthesis with Demographics Background implementation. The repository is sorted as follows
 
@@ -33,7 +40,7 @@ We provide a virtual environment in colab using conda to synthesize a face from 
 
 <img src="https://github.com/kopepod/DemographicFaceSynthesis/blob/main/GFL.png" width="256" height="256" />
 
-\cite{RLeyva22}
 
+[@RLeyva22]
 
 
