@@ -22,7 +22,7 @@ We labeled the [FFHQ](https://github.com/NVlabs/ffhq-dataset) dataset using four
 
 The labels can be downloaded from here: [URL](https://drive.google.com/drive/folders/1cUHLpnaJqzMsoI_JgQF9fi31LozIyDy1) (FFHQ_Demographics.csv)
 
-2. Embaeddings
+2. Embeddings
 
 We provide the code to generate the [IR-SE-50](https://github.com/ZhaoJ9014/face.evoLVe) feature space and run the embedding evaluations. The code to generate the plots from the training FID observed in the process is also included. We also provide the code to train the synthesizer. The sample figure below shows the feature space using T-SNE.
 
@@ -37,14 +37,13 @@ We provide a virtual environment in colab using conda to synthesize a face from 
 <img src="https://github.com/kopepod/DemographicFaceSynthesis/blob/main/FIGS/GFL.png" width="256" height="256" />
 
 ```
-@software{RLeyva22,
-  author = {Lisa, Mona and Bot, Hew},
-  doi = {10.5281/zenodo.1234},
+@article{RLeyva22,
+  author = {Authors},
+  doi = {doi},
   month = {12},
-  title = {{My Research Software}},
-  url = {https://github.com/github/linguist},
-  version = {2.0.4},
-  year = {2017}
+  title = {{My Research }},
+  url = {https://github.com/kopepod/DemographicFaceSynthesis},
+  year = {2022}
 }
 ```
 
