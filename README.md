@@ -37,13 +37,13 @@ We provide a virtual environment in colab using conda to synthesize a face from 
 <img src="https://github.com/kopepod/DemographicFaceSynthesis/blob/main/FIGS/GFL.png" width="256" height="256" />
 
 ```
-@article{RLeyva22,
+@article{RLeyva23,
   author = {Authors},
   doi = {doi},
   month = {12},
   title = {{My Research }},
   url = {https://github.com/kopepod/DemographicFaceSynthesis},
-  year = {2022}
+  year = {2023}
 }
 ```
 
