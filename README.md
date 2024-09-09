@@ -37,13 +37,12 @@ We provide a virtual environment in colab using conda to synthesize a face from 
 <img src="https://github.com/kopepod/DemographicFaceSynthesis/blob/main/FIGS/GFL.png" width="256" height="256" />
 
 ```
-@article{RLeyva24,
-  author = {Authors},
-  doi = {doi},
-  month = {12},
-  title = {{My Research }},
-  url = {https://github.com/kopepod/DemographicFaceSynthesis},
-  year = {2023}
+@inproceedings{leyva2024demographic,
+  title={Demographic Bias Effects on Face Image Synthesis},
+  author={Leyva, Roberto and Sanchez, Victor and Epiphaniou, Gregory and Maple, Carsten},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={3818--3826},
+  year={2024}
 }
 ```
 
